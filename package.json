@@ -1,6 +1,6 @@
 {
   "name": "node-ezlog",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A simple logging utility for nodeJS",
   "main": "index.js",
   "scripts": {
@@ -13,6 +13,10 @@
     "something useful goes here"
   ],
   "author": "James Foley",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JamesFoley1/node-ezlog.git"
+  },
   "license": "ISC",
   "dependencies": {
     "fs": "^0.0.1-security"
